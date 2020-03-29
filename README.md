@@ -4,7 +4,7 @@ Srilanka District map component for vue.js
 
 ## Installation
 
-  `npm i vue-slmap --save`
+  `npm i vue-lkmap --save`
 
 
  ## Usage

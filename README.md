@@ -11,7 +11,7 @@ Srilanka District map component for vue.js
 
  ## Usage
 ```
- import slmap from 'vue-slmap'
+ import slmap from 'vue-lkmap'
 
  Vue.component('sl-map', slmap)
 

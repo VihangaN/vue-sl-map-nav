@@ -1,7 +1,7 @@
 {
-  "name": "slmapnav",
-  "version": "0.1.0",
-  "private": true,
+  "name": "vue-slmap",
+  "version": "0.1.1",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -37,5 +37,22 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "description": "## Project setup ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VihangaN/vue-sl-map-nav.git"
+  },
+  "keywords": [
+    "srilankan",
+    "map",
+    "districts map srilanka"
+  ],
+  "author": "“Vihanga <vihanganivarthana@gmail.com> (https://www.likemart.asia)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VihangaN/vue-sl-map-nav/issues"
+  },
+  "homepage": "https://github.com/VihangaN/vue-sl-map-nav#readme"
 }
